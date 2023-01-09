@@ -1,0 +1,21 @@
+ {
+    "questions":[
+     {
+        "exam":"Javascript hangi kod blokları arasında yazılır?",
+        "selectA":"<javascript>",
+        "selectB":"<scripting>",
+        "selectC":"<js>",
+        "selectD":"<script>",
+        "answer":"selectD"
+     },
+     {
+        "exam":"Hangisi ile bit html elemanına tıklama olayı gerçekleşir?",
+        "selectA":"onclick",
+        "selectB":"onchange",
+        "selectC":"onmouseover",
+        "selectD":"onmouseclick",
+        "answer":"selectA"
+     }
+    ]
+ } 
+ 
